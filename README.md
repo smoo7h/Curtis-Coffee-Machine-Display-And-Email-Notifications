@@ -1,6 +1,8 @@
 # Curtis-Coffee-Machine-Display-And-Email-Notifications
 
-Using a Raspberry PI and LCD Display, Displays the last coffee brewed and sends an email notification for a Curtis Coffee Machine 
+Using a Raspberry PI and LCD Display, 
+
+Displays the last time a coffee was brewed and sends an email notification for a Curtis Coffee Machine 
 
 Parts : 
 
