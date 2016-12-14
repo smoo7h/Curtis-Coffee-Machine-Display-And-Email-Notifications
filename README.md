@@ -29,6 +29,7 @@ sudo python CoffeeAlert.py &
 
 
 Images of my setup:
+
 http://imgur.com/a/w8ZXO
 
 https://youtu.be/wBn5ZSc2Rgc
