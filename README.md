@@ -6,7 +6,7 @@ Displays the last time a coffee was brewed and sends an email notification for a
 
 Parts : 
 
-1 x Raspberry Pi 3
+1 x Raspberry Pi 2
 
 1 x Acrylic Stand for 16x2 Character LCD
 
