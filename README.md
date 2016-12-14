@@ -17,7 +17,7 @@ Parts :
 1 x Pibow Coupé - Enclosure for Raspberry Pi 2 / B+ / Pi 
 
 
-Attach the vibration sensor to the inbound water tube attached to the coffee machnine. Connect this to GPIO #23 on the Raspberry Pi
+Attach the vibration sensor to the inbound water tube attached to the coffee machnine. Connect this to GPIO #23 and the 3.3vPin on the Raspberry Pi 
 
 Attach the LCD Display to the Raspberry Pi via USB
 
@@ -31,3 +31,4 @@ sudo python CoffeeAlert.py &
 Images of my setup:
 
 http://imgur.com/a/w8ZXO
+https://youtu.be/wBn5ZSc2Rgc
